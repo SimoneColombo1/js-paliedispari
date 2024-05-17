@@ -15,4 +15,4 @@ Creo una variabile per far inserire una variabile ad un  utente, poi creo un fun
 
 ---------------------------------------------------Pari E dispari---------------------------------------------------
 
-creo una variabile per far inserire all'utente un numero, creo una funzione per generare un numero casuale, e un altra per fare la somma tra il valore casuale e il numero dell'utente, poi creo un if else dove se n utente è minore di 5 entra in un secondo if else per capire il numero minore e quello maggiore
+creo una variabile per far inserire all'utente un numero, creo una funzione per generare un numero casuale, e un altra per fare la somma tra il valore casuale e il numero dell'utente, poi creo una funzione co9n un if else dove se  n utente è minore di 5 entra in un secondo if else per capire il numero minore e quello maggiore
